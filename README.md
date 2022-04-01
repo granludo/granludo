@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @granludo
 - 👀 I’m interested in education, open source, open hardware, CNC, guitar building and podcasting
 - 🌱 I’m currently learning a lot of things
-- 💞️ I’m looking to collaborate on 
+- 💞️ My research portfolio is at https://futur.upc.edu/MarcAlierForment 
 - 📫 How to reach me: granludo (at) the gmail thing, and  https://aprendizdeluthier.com https://mossegalapoma.cat https://zetatesters.com or just search for Marc Alier / Ludo 
 
 <!---
