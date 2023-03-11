@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @granludo
+- 👋 Hi, I’m @granludo, aka. Marc Alier, faculty at https://www.upc.edu
+- My homepage is at https://wasabi.essi.upc.edu/ludo
 - 👀 I’m interested in education, open source, open hardware, CNC, guitar building and podcasting
 - 🌱 I’m currently learning a lot of things
 - 💞️ My research portfolio is at https://futur.upc.edu/MarcAlierForment 
